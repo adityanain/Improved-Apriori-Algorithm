@@ -1,0 +1,21 @@
+Starting time : 0
+minsup : 49501
+Row Vector memory consumption : 3.77656
+Column Vector memory consumption : 15.2951
+Time taken for finding frequent k : 2 4.07
+Time taken for pruning frequent k : 2 0
+Time taken for finding frequent k : 3 0.046
+Time taken for pruning frequent k : 3 0
+Time taken : 18.389
+The Frequent ItemSets with their Support count : 
+1 : 197522
+3 : 450031
+4 : 78097
+6 : 601374
+7 : 86898
+11 : 364065
+27 : 72134
+55 : 65412
+148 : 69922
+218 : 88598
+1 6 : 61692

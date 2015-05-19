@@ -1,0 +1,15 @@
+Starting time : 0
+minsup : 5000
+Time taken for finding frequent k = 1 : 1.516
+Time taken : 2.984
+The Frequent ItemSets along with their Support count : 
+217 : 5375
+354 : 5835
+368 : 7828
+419 : 5057
+494 : 5102
+529 : 7057
+684 : 5408
+722 : 5845
+766 : 6265
+829 : 6810
